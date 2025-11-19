@@ -2,8 +2,8 @@
 <h3 align="center">Python Web Backend Engineer</h3>
 
 <p align="center">
-  I build reliable backend applications using a modern Python web stack.<br>
-  Clean architecture. Strong foundations. Production-ready engineering.
+  I’m learning to build solid backend applications using the modern Python web ecosystem.
+  I focus on clean architecture, practical engineering, and improving a little every day.
 </p>
 
 <!-- Stable premium separator -->
