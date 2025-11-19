@@ -2,15 +2,11 @@
 <h3 align="center">Python Web Backend Engineer</h3>
 
 <p align="center">
-  I build reliable backend applications using a modern Python web stack.  
-  I focus on clean architecture, stability, strong database foundations, and practical engineering.
+  I build reliable backend applications using a modern Python web stack.<br>
+  Clean architecture. Strong foundations. Production-ready engineering.
 </p>
 
-<!-- Premium 3D floating cube (clean & subtle animation) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-animation-playground/master/3d-cube.svg" width="140"/>
-</p>
-
+<!-- Stable premium separator -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%">
 </p>
@@ -27,38 +23,36 @@
 
 ## 🧠 What I Do
 
-- I work with Python to develop backend services and web applications  
-- I design clean, maintainable app structures (blueprints, factories, layers)  
-- I use SQLAlchemy and Alembic for database models & migrations  
-- I work with PostgreSQL and understand real schema design  
-- I write backend logic that is predictable, readable, and easy to extend  
-- I deploy using Render, environment configs, Gunicorn, and modern tooling  
-- I keep my workflow clean with uv, GitHub Actions, Ruff, Makefile  
-- On the frontend side I know enough HTML/CSS/Bootstrap to support backend work
+- Build backend logic using Python (3.12+)  
+- Design clean, maintainable app structures (blueprints, factories, layers)  
+- Use SQLAlchemy ORM + Alembic for database modeling & migrations  
+- Work with PostgreSQL and real schema design patterns  
+- Deploy apps via Render + Gunicorn + environment configs  
+- Keep workflows clean using uv, GitHub Actions, Ruff, Makefile  
+- Apply enough HTML/CSS/Bootstrap for backend interfaces
 
 ---
 
 ## 🔥 Engineering Values
 
-- **Clarity over cleverness** — readable code beats magic  
-- **Architecture matters** — structure defines long-term success  
-- **Databases are the backbone** — model them carefully  
-- **Small, reliable components** > giant fragile systems  
-- **Tools are part of the craft** — uv, GitHub Actions, Ruff, proper configs  
-- **Backend is more than endpoints** — it’s design, stability, consistency  
+- **Clarity over cleverness** — clean code wins  
+- **Architecture matters** — maintainable structure always pays off  
+- **Databases first** — strong schema = strong backend  
+- **Reliability > speed** — stable systems beat hacky solutions  
+- **Tools matter** — consistency with uv, CI, linters  
+- **Backend = design, data, stability, discipline**
 
 ---
 
-## 🎨 Aesthetic Touch
+## 🎨 Aesthetic Touch (Stable Edition)
 
+<!-- This icon is stable, hosted on skillicons CDN -->
 <p align="center">
-  <!-- Soft animated glow bar -->
-  <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme/header/assets/gradient-bar.png" width="80%">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="80">
 </p>
 
 <p align="center">
-  <!-- Subtle animated wave (clean, simple, elegant) -->
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-animation-playground/master/wave-line.svg" width="200">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </p>
 
 ---
@@ -68,7 +62,3 @@
 - ✉ Email: **romanvikernes@gmail.com**  
 - 💬 Telegram: **https://t.me/ZZyngZZ**  
 - 🐙 GitHub: **https://github.com/RomanVetrov**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
-</p>
