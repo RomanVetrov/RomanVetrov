@@ -15,11 +15,32 @@
 
 ## ✨ Tech Stack
 
+<!-- Main big icons -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,postgres,git,github,html,css,bootstrap&theme=dark" />
 </div>
 
 ---
+
+## 🔧 Additional Tools & Technologies
+
+<p>
+  
+  <!-- ORM / DB Tools -->
+  <img src="https://img.shields.io/badge/SQLAlchemy-CA2C2C?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-444444?style=for-the-badge" />
+
+  <!-- Backend / Server -->
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/uv-Python%20Package%20Manager-4b8bbe?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ruff-Linter-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dotenv-Environment_Vars-ECD53F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Makefile-Build_Tools-000000?style=for-the-badge" />
+
+</p>
+
 
 ## 🧠 What I Do
 
