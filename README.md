@@ -45,15 +45,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
-## 📂 Projects
-
-### 🔹 English Teacher App
-Backend-focused Flask application with authentication, SQLAlchemy ORM, Alembic migrations, file handling and clean architecture.  
-👉 https://github.com/RomanVetrov/English_Teacher_site
-
----
 
 ## 📊 GitHub Stats
 
@@ -67,8 +58,8 @@ Backend-focused Flask application with authentication, SQLAlchemy ORM, Alembic m
 ## 🌎 Contact
 
 - GitHub: https://github.com/RomanVetrov  
-- Email: *(add if you want)*  
-- Telegram: *(optional)*  
+- Email: romanvikernes@gmail.com
+- Telegram: https://t.me/ZZyngZZ
 
 ---
 
