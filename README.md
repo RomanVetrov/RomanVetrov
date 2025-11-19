@@ -49,8 +49,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RomanVetrov&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanVetrov&layout=compact&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanVetrov&theme=github_dark" />
 </p>
 
 ---
@@ -58,8 +57,7 @@
 ## 🌎 Contact
 
 - GitHub: https://github.com/RomanVetrov  
-- Email: romanvikernes@gmail.com
+- Email: romanvikernes@gmail.com  
 - Telegram: https://t.me/ZZyngZZ
 
 ---
-
