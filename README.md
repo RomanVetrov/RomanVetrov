@@ -17,7 +17,7 @@
 
 <!-- Main big icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,postgres,redis,docker,kubernetes,linux,git,github,vscode,html,css,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,postgres,redis,kafka,rabbitmq,docker,kubernetes,linux,git,github,vscode,html,css,bootstrap&theme=dark" />
 </div>
 
 ---
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/dotenv-Environment_Vars-ECD53F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Makefile-Build_Tools-000000?style=for-the-badge" />
 </p>
-
 
 
 ## 🧠 What I Do
