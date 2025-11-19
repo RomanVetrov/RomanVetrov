@@ -2,11 +2,15 @@
 <h3 align="center">Python Web Backend Engineer</h3>
 
 <p align="center">
-  I build reliable, scalable backend applications using a modern Python web stack.  
-  Clean architecture. Strong fundamentals. Production-ready engineering.
+  I build reliable backend applications using a modern Python web stack.  
+  I focus on clean architecture, stability, strong database foundations, and practical engineering.
 </p>
 
-<!-- stable, premium gradient separator -->
+<!-- Premium 3D floating cube (clean & subtle animation) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-animation-playground/master/3d-cube.svg" width="140"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%">
 </p>
@@ -21,29 +25,41 @@
 
 ---
 
-## 🧠 Engineering Principles
+## 🧠 What I Do
 
-These are the core ideas I follow when building software:
-
-- **Clean architecture first** — structure matters more than clever tricks  
-- **Make it readable** — clarity always wins  
-- **Strong database foundations** — PostgreSQL + SQLAlchemy + migrations  
-- **Design for maintainability** — code should be easy to extend  
-- **Precision over speed** — correctness beats hacks  
-- **Build reliable systems** — predictable, stable, production-ready  
+- I work with Python to develop backend services and web applications  
+- I design clean, maintainable app structures (blueprints, factories, layers)  
+- I use SQLAlchemy and Alembic for database models & migrations  
+- I work with PostgreSQL and understand real schema design  
+- I write backend logic that is predictable, readable, and easy to extend  
+- I deploy using Render, environment configs, Gunicorn, and modern tooling  
+- I keep my workflow clean with uv, GitHub Actions, Ruff, Makefile  
+- On the frontend side I know enough HTML/CSS/Bootstrap to support backend work
 
 ---
 
-## 🧭 Roadmap
+## 🔥 Engineering Values
 
-What I'm expanding next:
+- **Clarity over cleverness** — readable code beats magic  
+- **Architecture matters** — structure defines long-term success  
+- **Databases are the backbone** — model them carefully  
+- **Small, reliable components** > giant fragile systems  
+- **Tools are part of the craft** — uv, GitHub Actions, Ruff, proper configs  
+- **Backend is more than endpoints** — it’s design, stability, consistency  
 
-- Deepening Django internals & ORM patterns  
-- Building FastAPI microservices  
-- Docker-based deployments  
-- Testing: pytest, mocks, integration flows  
-- Experimenting with Celery & background tasks  
-- More backend-heavy real-world apps  
+---
+
+## 🎨 Aesthetic Touch
+
+<p align="center">
+  <!-- Soft animated glow bar -->
+  <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme/header/assets/gradient-bar.png" width="80%">
+</p>
+
+<p align="center">
+  <!-- Subtle animated wave (clean, simple, elegant) -->
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-animation-playground/master/wave-line.svg" width="200">
+</p>
 
 ---
 
